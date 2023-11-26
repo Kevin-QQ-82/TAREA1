@@ -1,0 +1,5 @@
+10.5 15.0 20 producto1 categoria1 marca1 codigo1
+8.0 12.0 15 producto2 categoria2 marca2 codigo2
+5.5 8.0 10 producto3 categoria3 marca3 codigo3
+12.0 18.0 25 producto4 categoria4 marca4 codigo4
+9.5 14.0 18 producto5 categoria5 marca5 codigo5

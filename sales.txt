@@ -1,0 +1,4 @@
+Juan 2023-01-01 LocalA
+Pedro 2023-01-02 LocalB
+Pablo 2023-01-03 LocalC
+Lucas 2023-01-04 LocalA
